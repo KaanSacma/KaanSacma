@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer sciences student at {Epitech} Brussels in my third year.<br>I am passionate about Game Dev and I want to learn more.
+I am a computer sciences student at {Epitech} Brussels in my third year.<br>I am passionate about Web Dev and I want to learn more.
 
 
 ## 🌐 Socials:
