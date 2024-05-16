@@ -9,7 +9,6 @@ I've been learning programming for 3 years at {Epitech} Brussels, I learned how 
 * 🌍  I'm based in Belgium / Brussels
 * 🖥️  See my portfolio at [kaansacma.github.io](http://kaansacma.github.io/)
 * ✉️  You can contact me at [kaansacma@gmail.com](mailto:kaansacma@gmail.com)
-* 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on a new project
 
 ### Skills
